@@ -105,10 +105,18 @@
     <string-array name="fontsDescriptions">
         <item>VeraMoBd</item>
         <item>8514oemreg</item>
+        <item>ShareTechMono</item>
+        <item>6x12</item>
+        <item>JetBrainsMonoRegular.ttf</item>
+        <item>TerminusTTF</item>
     </string-array>
     <string-array name="fonts">
         <item>VeraMoBd.ttf</item>
         <item>8514oemreg.ttf</item>
+        <item>ShareTechMono.ttf</item>
+        <item>6x12.ttf</item>
+        <item>JetBrainsMonoRegular.ttf</item>
+        <item>TerminusTTF.ttf</item>
     </string-array>
     <string-array name="virtualKeyboardValues">
         <item>0</item>
