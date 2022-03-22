@@ -109,6 +109,7 @@
         <item>6x12</item>
         <item>JetBrainsMonoRegular.ttf</item>
         <item>TerminusTTF</item>
+        <item>Flexi_IBM_VGA_True</item>
     </string-array>
     <string-array name="fonts">
         <item>VeraMoBd.ttf</item>
@@ -117,6 +118,7 @@
         <item>6x12.ttf</item>
         <item>JetBrainsMonoRegular.ttf</item>
         <item>TerminusTTF.ttf</item>
+        <item>Flexi_IBM_VGA_True.ttf</item>
     </string-array>
     <string-array name="virtualKeyboardValues">
         <item>0</item>
