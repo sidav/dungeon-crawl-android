@@ -15,7 +15,8 @@
         <item>any of these grid areas sends the corresponding directional key to the program.</item>
         <item> </item>
         <item>Original Android port made by Michael Barlow.</item>
-        <item>Legacy (0.14.3) version built for Android by sidav.</item>
+        <item>Android build suffering by sidav.</item>
+        <item>(yeah, the code compatibility rework process was THAT horrible)</item>
         <item> </item>
         <item>Happy crawling!</item>
     </string-array>
