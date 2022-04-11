@@ -157,6 +157,7 @@
         <item>menu_colours</item>
         <item>messages</item-->
         <item>no_vi_command_keys</item>
+        <item>HDamage</item>
         <!--  item>runrest_messages</item>
         <item>standard_colours</item-->
     </string-array>
